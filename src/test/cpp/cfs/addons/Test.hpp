@@ -1,6 +1,6 @@
 
-#ifndef CFS_COM_TEST_HPP
-#define CFS_COM_TEST_HPP
+#ifndef CFS_ADDONS_TEST_HPP
+#define CFS_ADDONS_TEST_HPP
 
 #include <vector>
 #include <gmock/gmock.h>

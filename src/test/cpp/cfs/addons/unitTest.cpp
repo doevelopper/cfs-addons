@@ -1,6 +1,6 @@
 
 #include <cstdlib>
-#include <cfs/com/Test.hpp>
+#include <cfs/addons/Test.hpp>
 
 int
 main(int argc, char * argv[])
