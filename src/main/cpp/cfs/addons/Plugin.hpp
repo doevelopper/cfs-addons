@@ -14,6 +14,11 @@ namespace cfs::addons
     class Plugin
     {
     public:
+        struct Config
+        {
+             //std::shared_ptr<Core> client;
+             std::string id;
+        };
         /*
          * @brief Function called after successful plugin initialization
          */

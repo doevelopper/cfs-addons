@@ -1,6 +1,6 @@
 
 #include <cfs/addons/Timer.hpp>
-
+#include <cfs/addons/ContextProvider.hpp>
 using namespace cfs::addons;
 
 Timer::Timer(std::chrono::steady_clock::duration duration,
